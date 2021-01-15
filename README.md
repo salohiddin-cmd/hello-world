@@ -1,1 +1,3 @@
-# hello-world salom mening birinchi va songi muhabbatim
+# hello-world 
+qanaqasan fozil dusim
+ishlaring zurmi
